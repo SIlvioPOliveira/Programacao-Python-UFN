@@ -1,4 +1,4 @@
-#8 - Faça um programa em Python que manipule listas com números inteiros, representando
+T#8 - Faça um programa em Python que manipule listas com números inteiros, representando
 #    valores de glicemia (45 a 450) de um doente diabético. O programa deve receber valores de
 #    glicemia (um a um) até que o usuário não queira mais cadastrá-los. Os dados digitados
 #    devem ser inseridos na lista listaDadosOriginais.
